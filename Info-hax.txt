@@ -1,4 +1,0 @@
-Login: https://gcswave.jamfcloud.com/
-Username jamfadmin
-Password v1DCC-7gUQwfIAH$nU
-Surver: https://gcswave.jamfcloud.com/mdm/ServerURL
