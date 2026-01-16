@@ -1,4 +1,4 @@
-Login: https://accounts.iboss.com/
+Login: on linked url in byo
 Username iboss@gcswave.com
 Password 3@U}hccII6jzbrs8
 Surver 192.168.2.9
