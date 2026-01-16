@@ -10,6 +10,7 @@ This repository contains files and resources related to Project Freedom.
 The goal of this project is to explore concepts, test ideas, and improve coding skills.
 ##🗝️ passwords 
 Use MyPass (https://chenyufei.info/p/mypass/ios.html) to get the passwords for the hax 
+not listed. use the name for the salt and, passphrase for example ##iboss for the salt and, passphrase
 
 ---
 
